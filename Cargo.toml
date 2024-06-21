@@ -1,0 +1,5 @@
+[package]
+name = "fortune_teller"
+version = "0.1.0"
+authors = ["Jiwon Kwon <kjiwon411@gmail.com>"]
+edition = "2018"
